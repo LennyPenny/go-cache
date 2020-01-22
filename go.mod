@@ -1,3 +1,3 @@
-module github.com/LennyPenny/go-cache/v4
+module github.com/LennyPenny/go-cache/v5
 
 go 1.13
